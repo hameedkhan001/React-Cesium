@@ -1,0 +1,44 @@
+{
+  "..\\components\\CesiumGlobe.tsx -> ../components/cscWithId.json": {
+    "id": "..\\components\\CesiumGlobe.tsx -> ../components/cscWithId.json",
+    "files": [
+      "static/chunks/components_cscWithId_json.js"
+    ]
+  },
+  "..\\components\\CesiumGlobe.tsx -> ../components/data.json": {
+    "id": "..\\components\\CesiumGlobe.tsx -> ../components/data.json",
+    "files": [
+      "static/chunks/components_data_json.js"
+    ]
+  },
+  "..\\node_modules\\@cesium\\engine\\Source\\Core\\Resource.js -> http": {
+    "id": "..\\node_modules\\@cesium\\engine\\Source\\Core\\Resource.js -> http",
+    "files": [
+      "static/chunks/node_modules_next_dist_compiled_stream-http_index_js.js"
+    ]
+  },
+  "..\\node_modules\\@cesium\\engine\\Source\\Core\\Resource.js -> https": {
+    "id": "..\\node_modules\\@cesium\\engine\\Source\\Core\\Resource.js -> https",
+    "files": [
+      "static/chunks/node_modules_next_dist_compiled_https-browserify_index_js.js"
+    ]
+  },
+  "..\\node_modules\\@cesium\\engine\\Source\\Core\\Resource.js -> url": {
+    "id": "..\\node_modules\\@cesium\\engine\\Source\\Core\\Resource.js -> url",
+    "files": [
+      "static/chunks/node_modules_next_dist_compiled_native-url_index_js.js"
+    ]
+  },
+  "..\\node_modules\\@cesium\\engine\\Source\\Core\\Resource.js -> zlib": {
+    "id": "..\\node_modules\\@cesium\\engine\\Source\\Core\\Resource.js -> zlib",
+    "files": [
+      "static/chunks/node_modules_next_dist_compiled_browserify-zlib_index_js.js"
+    ]
+  },
+  "index.js -> ../components/Cesium": {
+    "id": "index.js -> ../components/Cesium",
+    "files": [
+      "static/chunks/components_Cesium_tsx.js"
+    ]
+  }
+}
